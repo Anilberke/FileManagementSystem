@@ -1,0 +1,4 @@
+Name Price Quantity
+===== ==== =======
+laptop 12200 5
+kitap 6 4
